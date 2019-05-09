@@ -18,4 +18,4 @@ print (joke_evaluation % hilarious)
 w = u"Это часть строки слева..."
 e = u"Это часть строки справа."
 
-print (w + e)
+print (w + e + e)
